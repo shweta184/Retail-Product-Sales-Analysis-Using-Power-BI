@@ -31,8 +31,6 @@ The business team wants to:
 
 ## 📌 Key Insights
 
-## 📌 Key Insights
-
 - 💰 The business generated **$1.6M in sales** with a **profit of $175K**, indicating positive margins but also room to increase profitability through targeted cost or discount control.
 - 🗂️ **Office Supplies** had the highest sales, but **Technology** delivered the most profit. This suggests that while some categories move high volume, others contribute more to bottom-line results and should be prioritized in promotions or bundling strategies.
 - 🪑 Top sub-categories like **Phones**, **Chairs**, and **Binders** dominated performance, highlighting where inventory turnover is highest and where customer demand is strongest.
