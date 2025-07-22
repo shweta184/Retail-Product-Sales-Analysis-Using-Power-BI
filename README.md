@@ -31,14 +31,16 @@ The business team wants to:
 
 ## 📌 Key Insights
 
-- 📦 Total Sales: **$1.6M** | Profit: **$175K** | Quantity Sold: **22K**  
-- 🗂️ **Office Supplies** had the highest sales, while **Technology** earned the highest profit  
-- 🪑 Top sub-categories: **Phones**, **Chairs**, and **Binders**  
-- 🧑‍💼 **Consumer segment** made up over 50% of quantity sold  
-- 📍 **West** and **East** regions led in revenue, especially the West (~$0.52M)  
-- 💳 **Cash on Delivery (43%)** was the most preferred payment method  
-- 🚛 **Standard Class** was the most used shipping mode  
-- 📅 Sales peaked in **November and December**
+## 📌 Key Insights
+
+- 💰 The business generated **$1.6M in sales** with a **profit of $175K**, indicating positive margins but also room to increase profitability through targeted cost or discount control.
+- 🗂️ **Office Supplies** had the highest sales, but **Technology** delivered the most profit. This suggests that while some categories move high volume, others contribute more to bottom-line results and should be prioritized in promotions or bundling strategies.
+- 🪑 Top sub-categories like **Phones**, **Chairs**, and **Binders** dominated performance, highlighting where inventory turnover is highest and where customer demand is strongest.
+- 👤 The **Consumer segment** accounted for over 50% of total quantity sold, indicating a strong presence in the B2C space. Business strategies should continue focusing on this segment through personalized offers.
+- 🌍 The **West and East regions** outperformed others in both sales and profit, with the **West region alone contributing ~$0.52M**. Marketing campaigns and resource allocation can be optimized around these high-performing regions.
+- 💳 **Cash on Delivery (43%)** was the most preferred payment method, which indicates the need for efficient cash handling systems and possible incentives for online payments to reduce risk.
+- 🚛 The majority of orders were shipped via **Standard Class**, suggesting that customers are either cost-conscious or that express delivery is underutilized. Offering incentives for faster delivery options could improve customer experience and operational metrics.
+- 📅 Sales consistently peaked in **November and December**, indicating a strong year-end demand — likely driven by holiday shopping. Planning seasonal campaigns and inventory during these months can maximize revenue.
 
 ---
 
